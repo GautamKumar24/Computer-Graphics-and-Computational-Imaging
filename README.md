@@ -21,3 +21,7 @@ Introduction: Image filtering and effects play a crucial role in digital image p
             Integrate the algorithms into the application, allowing users to apply filters and effects to images in real-time.
             Test the application extensively to ensure stability, performance, and compatibility across different platforms and devices.
 
+
+
+**Final approved Project Proposal: **
+Image Dehazing vs Low-light
